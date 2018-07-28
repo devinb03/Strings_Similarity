@@ -1,0 +1,25 @@
+C:\Users\jaysonto\Documents\Visual Studio 2017\Projects\Strings_Similarity-master\Compare Example\bin\Debug\Compare Example.exe.config
+C:\Users\jaysonto\Documents\Visual Studio 2017\Projects\Strings_Similarity-master\Compare Example\bin\Debug\Compare Example.exe
+C:\Users\jaysonto\Documents\Visual Studio 2017\Projects\Strings_Similarity-master\Compare Example\bin\Debug\Compare Example.pdb
+C:\Users\jaysonto\Documents\Visual Studio 2017\Projects\Strings_Similarity-master\Compare Example\bin\Debug\StringsComparison.dll
+C:\Users\jaysonto\Documents\Visual Studio 2017\Projects\Strings_Similarity-master\Compare Example\bin\Debug\StringsComparison.pdb
+C:\Users\jaysonto\Documents\Visual Studio 2017\Projects\Strings_Similarity-master\Compare Example\obj\Debug\Compare Example.csprojResolveAssemblyReference.cache
+C:\Users\jaysonto\Documents\Visual Studio 2017\Projects\Strings_Similarity-master\Compare Example\obj\Debug\Compare_Example.Form1.resources
+C:\Users\jaysonto\Documents\Visual Studio 2017\Projects\Strings_Similarity-master\Compare Example\obj\Debug\Compare_Example.Properties.Resources.resources
+C:\Users\jaysonto\Documents\Visual Studio 2017\Projects\Strings_Similarity-master\Compare Example\obj\Debug\Compare Example.csproj.GenerateResource.Cache
+C:\Users\jaysonto\Documents\Visual Studio 2017\Projects\Strings_Similarity-master\Compare Example\obj\Debug\Compare Example.csproj.CoreCompileInputs.cache
+C:\Users\jaysonto\Documents\Visual Studio 2017\Projects\Strings_Similarity-master\Compare Example\obj\Debug\Compare Example.exe
+C:\Users\jaysonto\Documents\Visual Studio 2017\Projects\Strings_Similarity-master\Compare Example\obj\Debug\Compare Example.pdb
+D:\School\Summer 18\Software Testing\Strings_Similarity-master\Strings_Similarity-master\Compare Example\bin\Debug\Compare Example.exe.config
+D:\School\Summer 18\Software Testing\Strings_Similarity-master\Strings_Similarity-master\Compare Example\bin\Debug\Compare Example.exe
+D:\School\Summer 18\Software Testing\Strings_Similarity-master\Strings_Similarity-master\Compare Example\bin\Debug\Compare Example.pdb
+D:\School\Summer 18\Software Testing\Strings_Similarity-master\Strings_Similarity-master\Compare Example\bin\Debug\StringsComparison.dll
+D:\School\Summer 18\Software Testing\Strings_Similarity-master\Strings_Similarity-master\Compare Example\bin\Debug\StringsComparison.pdb
+D:\School\Summer 18\Software Testing\Strings_Similarity-master\Strings_Similarity-master\Compare Example\obj\Debug\Compare Example.csprojAssemblyReference.cache
+D:\School\Summer 18\Software Testing\Strings_Similarity-master\Strings_Similarity-master\Compare Example\obj\Debug\Compare_Example.Form1.resources
+D:\School\Summer 18\Software Testing\Strings_Similarity-master\Strings_Similarity-master\Compare Example\obj\Debug\Compare_Example.Properties.Resources.resources
+D:\School\Summer 18\Software Testing\Strings_Similarity-master\Strings_Similarity-master\Compare Example\obj\Debug\Compare Example.csproj.GenerateResource.cache
+D:\School\Summer 18\Software Testing\Strings_Similarity-master\Strings_Similarity-master\Compare Example\obj\Debug\Compare Example.csproj.CoreCompileInputs.cache
+D:\School\Summer 18\Software Testing\Strings_Similarity-master\Strings_Similarity-master\Compare Example\obj\Debug\Compare Example.csproj.CopyComplete
+D:\School\Summer 18\Software Testing\Strings_Similarity-master\Strings_Similarity-master\Compare Example\obj\Debug\Compare Example.exe
+D:\School\Summer 18\Software Testing\Strings_Similarity-master\Strings_Similarity-master\Compare Example\obj\Debug\Compare Example.pdb
