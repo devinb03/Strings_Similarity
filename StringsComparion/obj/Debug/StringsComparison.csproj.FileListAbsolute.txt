@@ -1,0 +1,12 @@
+C:\Users\jaysonto\Documents\Visual Studio 2017\Projects\Strings_Similarity-master\StringsComparion\bin\Debug\StringsComparison.dll
+C:\Users\jaysonto\Documents\Visual Studio 2017\Projects\Strings_Similarity-master\StringsComparion\bin\Debug\StringsComparison.pdb
+C:\Users\jaysonto\Documents\Visual Studio 2017\Projects\Strings_Similarity-master\StringsComparion\obj\Debug\StringsComparison.csprojResolveAssemblyReference.cache
+C:\Users\jaysonto\Documents\Visual Studio 2017\Projects\Strings_Similarity-master\StringsComparion\obj\Debug\StringsComparison.csproj.CoreCompileInputs.cache
+C:\Users\jaysonto\Documents\Visual Studio 2017\Projects\Strings_Similarity-master\StringsComparion\obj\Debug\StringsComparison.dll
+C:\Users\jaysonto\Documents\Visual Studio 2017\Projects\Strings_Similarity-master\StringsComparion\obj\Debug\StringsComparison.pdb
+D:\School\Summer 18\Software Testing\Strings_Similarity-master\Strings_Similarity-master\StringsComparion\bin\Debug\StringsComparison.dll
+D:\School\Summer 18\Software Testing\Strings_Similarity-master\Strings_Similarity-master\StringsComparion\bin\Debug\StringsComparison.pdb
+D:\School\Summer 18\Software Testing\Strings_Similarity-master\Strings_Similarity-master\StringsComparion\obj\Debug\StringsComparison.csproj.CoreCompileInputs.cache
+D:\School\Summer 18\Software Testing\Strings_Similarity-master\Strings_Similarity-master\StringsComparion\obj\Debug\StringsComparison.dll
+D:\School\Summer 18\Software Testing\Strings_Similarity-master\Strings_Similarity-master\StringsComparion\obj\Debug\StringsComparison.pdb
+D:\School\Summer 18\Software Testing\Strings_Similarity-master\Strings_Similarity-master\StringsComparion\obj\Debug\StringsComparison.csprojAssemblyReference.cache

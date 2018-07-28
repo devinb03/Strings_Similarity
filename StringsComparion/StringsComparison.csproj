@@ -37,6 +37,7 @@
     <Reference Include="System" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="StringsComparisonMutant.cs" />
     <Compile Include="StringsComparison.cs" />
     <Compile Include="AssemblyInfo.cs" />
   </ItemGroup>
